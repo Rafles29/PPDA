@@ -1,0 +1,2 @@
+def dupa():
+    print("Dupa")
